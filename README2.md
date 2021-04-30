@@ -20,4 +20,4 @@ Please for this repository and then issue pull requests for review.
 
 ## Copyright
 
-Copyright 2014 Git Training.
+Copyright 2014 Git Training. All rignts reserved worldwide.
